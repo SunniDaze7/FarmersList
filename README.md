@@ -14,6 +14,8 @@ npm install
 npm test
 ```
 
+hello test
+
 ## `Product`
 
 ![Product Class Diagram](./assets/Product.png)
